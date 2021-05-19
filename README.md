@@ -51,7 +51,7 @@ solo-project-Turtleburckle created by GitHub Classroom
   
   <div> &#10061; FINAL STEP </div>
   <p>&nbsp;&nbsp;&nbsp;&nbsp; So now you can reboot the Raspberry Pi in order to have the background watching script run and test it by pressing the doorbell knob. If all is setup, you will get an email like this in few seconds: </p>
-  <div align="center"><img src="doorbellMail.PNG" alt="Doorbell Mail Recieved"  width="580" height="406"></img></div>
+  <div align="center"><img src="doorBell.PNG" alt="Doorbell Mail Recieved"  width="580" height="406"></img></div>
   
   <h2> &#10150; Schema:</h2>
   <div align="center"><img src="Schema.PNG"></img></div>
