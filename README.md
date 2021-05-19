@@ -1,5 +1,4 @@
-# solo-project-Turtleburckle
-solo-project-Turtleburckle created by GitHub Classroom
+
 <h1 align="center"> Raspberry Pi Doorbell Notifier </h1> 
 
 <h2 align="left"><u>&#10150; Description: </u></h2>
