@@ -62,10 +62,6 @@
   <img src="closedFunctioning.gif"></img>
   </div>
   
-  <h2>&#10150; Demo, video capture: </h2>
-  
-  YouTube Video : https://www.youtube.com/watch?v=jfclDxFwJtM
-  
 
 
 
