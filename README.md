@@ -1,7 +1,7 @@
 # solo-project-Turtleburckle
 solo-project-Turtleburckle created by GitHub Classroom
 <h1 align="center"> Raspberry Pi Doorbell Notifier </h1> 
-<h4 align="right">Student &rarr; (SCS account) zaie2648 - Zsok Alina-Valentina</h4>
+
 <h2 align="left"><u>&#10150; Description: </u></h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;The main idea of this project is to attach to an existing doorbell a notifier of some sort. The doorbell will be connected to a Raspberry Pi and the notification will be through an email. When the doorbell is rang the raspberry pi will send an email to a specified person.</p>
 <p></p>
@@ -51,7 +51,7 @@ solo-project-Turtleburckle created by GitHub Classroom
   
   <div> &#10061; FINAL STEP </div>
   <p>&nbsp;&nbsp;&nbsp;&nbsp; So now you can reboot the Raspberry Pi in order to have the background watching script run and test it by pressing the doorbell knob. If all is setup, you will get an email like this in few seconds: </p>
-  <div align="center"><img src="doorBell.PNG" alt="Doorbell Mail Recieved"  width="580" height="406"></img></div>
+  <div align="center"><img src="doorbellMail.PNG" alt="Doorbell Mail Recieved"  width="580" height="406"></img></div>
   
   <h2> &#10150; Schema:</h2>
   <div align="center"><img src="Schema.PNG"></img></div>
